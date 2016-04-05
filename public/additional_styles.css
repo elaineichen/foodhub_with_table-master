@@ -1,0 +1,120 @@
+.main-content{
+  width: 100%;
+}
+
+.heading-row{
+  text-align: center;
+}
+
+.navigation-title{
+  background-color: red;
+  color: white;
+  font-family: 'Passion One';
+  font-size: xx-large;
+}
+
+.navigation{
+  background-color: red;
+  color: white;
+}
+
+.heading-sound-bites{
+  text-align: center;
+  background-color: rgb(238, 238, 238)
+}
+.how-to-image{
+  width: 200px;
+  border-radius: 50%;
+}
+
+.how-to-cell{
+  text-align: center;
+}
+
+.sound-bite-image{
+  width: 50px;
+  border-radius: 50%;
+}
+
+.sound-bite-cell{
+  text-align: center;
+  background-color: rgb(238, 238, 238)
+}
+
+h4{
+  font-weight: 700;
+}
+
+.tagline{
+  font-size: 22px;
+}
+.download-apps{
+  text-align: center;
+  color: white;
+  background: url("download-hero.jpg") no-repeat center center;
+  background-size: cover;
+  height: 300px;
+}
+
+.download-apps-image{
+  width: 200px;
+}
+
+.why-order-cell{
+  text-align:center;
+  background-color: rgb(238, 238, 238)
+}
+
+.why-order-content{
+  text-align: center;
+  background-color: rgb(238, 238, 238)
+}
+.why-order-image{
+  width: 200px;
+  border-radius: 50%;
+}
+
+.about-cell{
+  text-align: center;
+}
+
+.footer{
+  background-color: rgb(50, 50, 170);
+}
+
+.h4-footer{
+  color:white;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.li-footer{
+  color: white;
+  margin-bottom: 10px;
+}
+
+td{
+  border: thin red solid;
+}
+
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.hero{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  background: url("main-hero.jpg") no-repeat center center;
+  background-size: cover;
+  height: 300px;
+}
+
+button{
+  background-color: rgb(0, 126, 229);
+  color: white;
+  height: 40px;
+  width: 200px;
+  border-radius: 5px;
+}
